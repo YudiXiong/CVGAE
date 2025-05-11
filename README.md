@@ -2,11 +2,12 @@
 
 > [**Camouflaged Variational Graph AutoEncoder against Attribute Inference Attacks for Cross-Domain Recommendation**](https://doi.org/10.1109/TKDE.2025.3565793)               
 > Yudi Xiong, Yongxin Guo, Weike Pan, Qiang Yang, Zhong Ming, Xiaojin Zhang, Han Yu, Tao Lin and Xiaoying Tang
+> 
 > *[DOI Bookmark:10.1109/TKDE.2025.3565793](https://doi.org/10.1109/TKDE.2025.3565793)* 
 
-[![IEEE TKDE](https://img.shields.io/badge/IEEE TKDE-2025.3565793-red.svg)](https://doi.org/10.1109/TKDE.2025.3565793) | [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black) | [![Testing Status](https://img.shields.io/badge/PyTorch-v1.10.2-red)](https://pytorch.org/) | [![Testing Status](https://img.shields.io/badge/python->=3.7-red)](https://www.python.org/) | ![Testing Status](https://img.shields.io/badge/license-MIT-blue) 
+[![IEEE TKDE](https://img.shields.io/badge/IEEE%20TKDE-2025.3565793-red.svg)](https://doi.org/10.1109/TKDE.2025.3565793) | [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black) | [![Testing Status](https://img.shields.io/badge/PyTorch-v1.10.2-red)](https://pytorch.org/) | [![Testing Status](https://img.shields.io/badge/python->=3.7-red)](https://www.python.org/) | ![Testing Status](https://img.shields.io/badge/license-MIT-blue) 
 
-[![Static Badge](https://img.shields.io/badge/Google Scholar-FFB6C1.svg)](https://scholar.google.com/citations?user=LY4PK9EAAAAJ) | [![Static Badge](https://img.shields.io/badge/ORCID-c4302b.svg)](https://orcid.org/0009-0001-3005-8225)
+[![Static Badge](https://img.shields.io/badge/Google%20Scholar-FFB6C1.svg)](https://scholar.google.com/citations?user=LY4PK9EAAAAJ) | [![Static Badge](https://img.shields.io/badge/ORCID-c4302b.svg)](https://orcid.org/0009-0001-3005-8225)
 
 
 ## | [Paper](https://doi.org/10.1109/TKDE.2025.3565793) | [Amazon Datasets](http://jmcauley.ucsd.edu/data/amazon/index_2014.html) | [Tenrec Datasets](https://static.qblv.qq.com/qblv/h5/algo-frontend/tenrec_dataset.html) | [Code](https://github.com/YudiXiong/CVGAE/)|
