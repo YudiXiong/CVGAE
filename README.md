@@ -127,12 +127,14 @@ All open-sourced is for research purpose only.
 If you find our code or paper useful for your research, please cite paper with the following BibTeX entry. Thank you!
 ```
 @article{yudixiong2025CVGAE,
-  title={Camouflaged Variational Graph AutoEncoder against Attribute Inference Attacks for Cross-Domain Recommendation},
   author={Xiong, Yudi and Guo, Yongxin and Pan, Weike and Yang, Qiang and Ming, Zhong and Zhang, Xiaojin and Yu, Han and Lin, Tao and Tang, Xiaoying},
-  journal={IEEE Transactions on Knowledge and Data Engineering},  
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Camouflaged Variational Graph AutoEncoder Against Attribute Inference Attacks for Cross-Domain Recommendation}, 
   year={2025},
-  doi={10.1109/TKDE.2025.3565793},
-}
+  volume={37},
+  number={7},
+  pages={3916-3932},
+  doi={10.1109/TKDE.2025.3565793}}
 ```
 
 ## Acknowledgement
